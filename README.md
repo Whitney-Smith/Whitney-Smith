@@ -5,6 +5,5 @@
  <li> 🎓Studied **International Business** at Illinois State University in the State Farm Hall of Business</li> <br/>
 <li> 📊 I enjoy analyzing data for consumer insights</li> <br/>
 <li> 🧠 Currenlty data analytics</li> <br/>
-<li> ✨ Interests: anime, travel, sports</li>
-<ul></ul>
-## Languaages and Tools
+<li> ✨ Interests: anime, travel, sports</li> <br/>
+## Languages and Tools
