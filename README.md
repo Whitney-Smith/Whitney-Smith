@@ -6,4 +6,4 @@
 <li> 📊 I enjoy analyzing data for consumer insights</li> <br/>
 <li> 🧠 Currenlty data analytics</li> <br/>
 <li> ✨ Interests: anime, travel, sports</li> <br/>
-## Languages and Tools
+<h2>Languages and Tools</h2> 
