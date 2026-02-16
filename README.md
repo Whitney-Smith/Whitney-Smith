@@ -7,4 +7,4 @@
 <li> 🧠 Currenlty data analytics</li> <br/>
 <li> ✨ Interests: anime, travel, sports</li>
 <ul></ul>
-##Languaages and Tools
+## Languaages and Tools
