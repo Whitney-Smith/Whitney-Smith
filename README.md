@@ -1,4 +1,4 @@
-# 👋Hello, I'm Whitney Smith! 
+# 👋Hello, I'm Whitney! 
 **A data-enthusiast based in the Greater Chicago Area!** <br> <li> 🎓 Studied **International Business** at Illinois State University <br><br> <li> 📊 I enjoy analyzing data for consumer insights<br><br> <li> 🧠 Currenlty learning data analytics<br><br> <li> ✨ Interests: anime, travel, sports
 
 # Tech Stack
